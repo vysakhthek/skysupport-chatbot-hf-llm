@@ -1,4 +1,4 @@
-# SkySupport Chatbot uinsg HuggingFace LLM
+# SkySupport GEN AI Chatbot
 It's a generative ai chatbot built using the HuggingFace Large Language Model and Natural Language Processing (NLP) techniques to provide customer support using frequently asked questions data. The dataset utilized here comprises frequently asked questions from the [Skyscanner site](https://www.skyscanner.net/).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The chatbot efficiently answers questions directed to it and generates new responses each time, leveraging the capabilities of the large language model. 
